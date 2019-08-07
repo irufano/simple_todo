@@ -1,6 +1,6 @@
-# simple_todo
+# Simple TODO App With Flutter
 
-A new Flutter project.
+Simple App Todo with Flutter
 
 ## Getting Started
 
