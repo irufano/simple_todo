@@ -126,9 +126,6 @@ class TodoListState extends State<TodoList> {
     );
   }
 
-
-  
-
 }
 
 
